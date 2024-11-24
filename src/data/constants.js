@@ -424,11 +424,17 @@ export const projects = [
     category: "web app",
     github: "https://github.com/Shubhamgupta171/Simon-Game",
     webapp: "https://simongame-git-main-shubhams-projects-85b0835d.vercel.app/",
-    
+     member: [
+      {
+        name: "Shubham Gupta",
+        img: "https://media.licdn.com/dms/image/v2/D5603AQHL6B1fl0FM5Q/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1732373301911?e=1738195200&v=beta&t=r1GPqUDPs3sTmnkN6pIfzvalT-V7VPX5cboWsNMMyK8",
+        linkedin: "https://www.linkedin.com/in/shubham-gupta-92244a200/",
+        github: "https://github.com/Shubhamgupta171",
+      },
+      
+    ],
   },
 
-
-  
   {
     id: 0,
     title: "Alumni Information System",
