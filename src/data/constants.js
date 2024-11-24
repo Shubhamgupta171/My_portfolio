@@ -10,7 +10,7 @@ export const Bio = {
   "I am a motivated and adaptable individual with strong leadership qualities and a passion for learning. Driven by a growth mindset and a positive attitude, I am eager to take on new challenges, guide teams effectively, and deliver high-quality results.",
   github: "https://github.com/Shubhamgupta171",
   resume:
-    "https://drive.google.com/file/d/1JExnDvPhKlxxj1pHUqZnPVf7SmHZrPew/view?usp=drive_link",
+    "https://drive.google.com/file/d/1vDp4X9m_nmjatty9Rz2tujVUaUSmyjVM/view?usp=drive_link",
   linkedin: "https://www.linkedin.com/in/shubham-gupta-92244a200",
   twitter: "https://twitter.com/shubhamgupta",
   insta: "https://www.instagram.com/____shubhamm_guptaa/",
