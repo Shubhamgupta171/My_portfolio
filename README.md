@@ -4,11 +4,14 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ---
 
+## **Deployment Live Portfolio**
+- [Click here-->](https://shubhamgupt.netlify.app/)
+
 ## **Available Scripts**
 
 ### `npm start`
 - Runs the app in development mode.
-- Open [http://localhost:3001](http://localhost:3001) to view it in your browser.
+- Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 - The page automatically reloads as you make changes.
 - Lint errors (if any) are displayed in the console.
 
