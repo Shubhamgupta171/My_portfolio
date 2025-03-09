@@ -86,7 +86,7 @@ export const skills = [
       },
       {
         name: "NestJS",
-        image: "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.redbubble.com%2Fes%2Fshop%2Fnestjs&psig=AOvVaw0IBiK9f3zuekMtF7JcjaOQ&ust=1741609882405000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPD96cWA_YsDFQAAAAAdAAAAABAQ",
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrAhOlc5mfP52_Oi0uOKGgHniRqaQFBWsePg&s",
       },
       // {
       //   name: "Python",
