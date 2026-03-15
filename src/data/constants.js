@@ -88,21 +88,21 @@ export const skills = [
         name: "NestJS",
         image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrAhOlc5mfP52_Oi0uOKGgHniRqaQFBWsePg&s",
       },
-      // {
-      //   name: "Python",
-      //   image:
-      //     "https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg",
-      // },
+      {
+        name: "Python",
+        image:
+          "https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg",
+      },
       // {
       //   name: "Flask",
       //   image:
       //     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Flask_logo.svg/1280px-Flask_logo.svg.png",
       // },
-      // {
-      //   name: "Django",
-      //   image:
-      //     "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlFFyY16N5NRhzoG24RqB7x8Ok2t8Bdgs-tuMsOBXS2Q&s",
-      // },
+      {
+        name: "Django",
+        image:
+          "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlFFyY16N5NRhzoG24RqB7x8Ok2t8Bdgs-tuMsOBXS2Q&s",
+      },
       {
         name: "MySQL",
         image:
@@ -146,25 +146,25 @@ export const skills = [
       //   image:
       //     "https://toppng.com/uploads/preview/jenkins-logo-11609365847mufysaivph.png",
       // },
-      // {
-      //   name: "Nginx",
-      //   image: "https://download.logo.wine/logo/Nginx/Nginx-Logo.wine.png",
-      // },
-      // {
-      //   name: "Grafana",
-      //   image:
-      //     "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Grafana_logo.svg/1200px-Grafana_logo.svg.png",
-      // },
+      {
+        name: "Nginx",
+        image: "https://download.logo.wine/logo/Nginx/Nginx-Logo.wine.png",
+      },
+      {
+        name: "Grafana",
+        image:
+          "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Grafana_logo.svg/1200px-Grafana_logo.svg.png",
+      },
       {
         name: "Kubernetes",
         image:
           "https://upload.wikimedia.org/wikipedia/commons/0/00/Kubernetes_%28container_engine%29.png",
       },
-      // {
-      //   name: "Prometheus",
-      //   image:
-      //     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Prometheus_software_logo.svg/1200px-Prometheus_software_logo.svg.png",
-      // },
+      {
+        name: "Prometheus",
+        image:
+          "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Prometheus_software_logo.svg/1200px-Prometheus_software_logo.svg.png",
+      },
     ],
   },
   // {
@@ -301,6 +301,25 @@ skills: [
 
 export const experiences = [
 
+  
+    {
+    id: 0,
+    img: "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBw8HBhUIBxEVFRIVFhUXFhUVFRsWHRcVGBUYFxcTFx8aKCosGh4xHRUUIjQiJSotLi8yFyA/ODo4NygtLisBCgoKDg0OGxAQGi0lHyU3LS4wNzUrNy8uLS0tLTcyKystNi03Ny03Ly8tKy81LS0tNSsrLSwtKzUtLS0tLSstLf/AABEIAOEA4QMBIgACEQEDEQH/xAAbAAEBAAIDAQAAAAAAAAAAAAAABgQFAQMHAv/EADEQAAIBBAIBAgUEAQMFAAAAAAABAgMEBRESIQYxQRMiYYGRFBUyUUIHcdEjUmKCof/EABcBAQEBAQAAAAAAAAAAAAAAAAABAgP/xAAoEQEAAwABAwMBCQAAAAAAAAAAAQIREgMhMQRBUZETFCJhcYGx0fD/2gAMAwEAAhEDEQA/APcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD5mm4NR9fyBg5/IPF4arewjylCDcY/3L/FfnRg2/lFG4wkMjQUpuT4fDhHcvir+VNr2097bNN+8397Uq467sYVfhSSqcK3CT01KNSMZL0aSa7+hnWNjUdW5yWGioK5pwahUThxuU5wnKS1104enq4/c7cIrH4v5axn+I5epncT+43EIwUpSUILvUYvj8z93tP00vQ3RM2Fn+24ylisTKo5U1xc/SO97lKW133vo2OWd1a4KpUsZRnXjFyjyj02u9aT/3M2rE27e6S2oIrHebqt4JPOXCiqtPcZQXS+JvUFr2T2mZ+Ozta38L/e84oqfCVTjFceu+Ee2+31+Sz0Lx5+c/cyVMCG8E8wuM1fSsczCMKjhGpS4px5Qa76fr7Pf1Ovynzip4/wCWQsqsIu24QlPp81yck5J/TS6L93vz4e/k4zuL0EfR8pqXPnEMTbOnK3nQVWMknt7i2nv+ujSZnyXN4nJUrK5jbbrzcaetv/NRXLvr+SLX09pnO3ysVl6WDQUMlc4rx2pfeSqmqlPlJqnvi11xXfvs0fgfmNxmb+VhmYRhN041aXFOPKD9fVvfTi/yZjo2mJtHiE4yuwRnk3lNzSz0cB47SjO4ceUpTfywWt61/t3v/kzfG7nLO+la+Q0qXBR3GrTlrb3/AB17/wDwT0bRXlOfXucZUwPMbby/KZC/r0LOdnBUqko/9ZuG0pNJrvv0LJ5apjPF/wBzzHGVSMNyVF7UpN6jGH973Ffct+hamRPuTEw3gJqmsxKmrmUrVN6f6fjPr/x+Kn6/XgZuZyVSxv7ShSS1XrOnPfel8KpP5fvBGOE7kSY3AJq+vb248mni8ZUpU4wo06m6lKVRtynKOupR1/FH3jc7UoyubfOKCnaxjUlOnvjKlKLly0/4v5Jdbfoh9nOGKIEtZ18tk7ZX9B29GMlyhRnCU5OL7XOaa4vWvSL0ZueydfG4WndOMFVdW3hKO3KK+JVjCaT63/J96E0nc1MbwHHsSlG/v7/IXFO2uLelCjWdNKdJybShGW981/3a9PYlazbRWA6LFVI2sVdyjOevmlCPFP6pbevyd5kAAAOJPS2cgCNv8tVvM6raipWsOoyrTpN1KnfVOD00lt+rZtbfJfp7WsqfOrC36dSclylUXzSitL0Sa7/4N4+ltInsBiK9DnK/lqE51J/CWnt1PV1H79daXR12sx+i677uNesnRtp06kJrlqTcZKLfWnH1W/f6GdjHVdooX0fnXTe9qSXpIwsLipY29qdt09RVJN+i3KTj+WbozaY8DyW98Hun5TKwoRl+gqV41ZPa4pabafvvuUfuij/1Bxl1mYUMJjKbVGUourU0uMIrqKa33r119EW4Ok+ptNon4/2nKXmGR8VyWHydvl7Wo7udJqDjGEabVJLXH101ra/Bsc147Uyv+oMLm4oOVrKhwnJ61vjU69dp7cS+ONF+9X3ffJj6ryl5l4t4hdYHzpTlGU7aMaihV3/i18sXv0fb+htvOcTcX/kljc2dKU4Uqic2tfKvi03t7+kWW+jkk+ptN4vPnMTZRf8AqJj7vNwo4fHU38Kc061TrjGKekn/AH7v7GjyXimTxORt8vaVf1U6TjDjGEabVJLXH17Wtr7nqGgKeptSIrEdv7ItKA8ixF7YeVR8nwNJVeUFGpRb1LWtdfZL++0dnjNvkL7zGecylvKhSdLgqcqnL5vlSaX2fei70CT15muTEfG/kvLs8cpeO3Nvkripe4j9VGdWbg51FHinOT2tb9dovnjamZ8NVlUpfpanGPCDfNU5U5J0+/dbiik0cl6nqLXyc8JNtTVPOX3BUKmNq/H6Tkp0/g795c+W9f8ArsyPILSrdZKxq0YNqncOdRr/ABj8CpHf5kkbzRzo58++xBqVvMJVvfL6lzzrUqf6elFTpTUeUlUm3F+vs1+T4wuBkrC7xWSjJyqucZXLfJ1qc4NRk9+kkm049Lrr1K3QL9rbMNSlhk7/ABtnGwvLGrVqwSiqlKVP4c9LSm3KScPba4s7/LLe4vfHYcKLlVVW3qSpwkpa4VYzmouWt9J/0UmgTn33DWox+Yq3l18CrZXNJNN86ipcVr2fCcnv7EtPGQp5a6nk8TO5+JXc4VFCjJcOEI6+eafrFl+C16nHcjyaxsXNTx8HGlKitaVOSinBLpRai2vwzKAOaAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA/9k=",
+    role: "Backend Developer Intern",
+    company: "Aaizeltech International Pvt Ltd ",
+    date: "Nov 2025 - Feb 2026",
+    // desc: "Developed a web application using Angular and NestJS, styled with Tailwind CSS, secured with JWT authentication and managed data with MySQL and Blob storage. .",
+    skills: [
+      "Node JS",
+      "Python",
+      "HTML",
+      "CSS",
+      "Typescript",
+      "NestJS",
+      
+    ],
+    doc: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/Screenshot%20from%202024-01-25%2022-38-31.png?alt=media&token=2785903f-1a4e-41f5-afd2-6adcfe56d058",
+  },
     {
     id: 0,
     img: "data:image/jpeg;base64,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",
